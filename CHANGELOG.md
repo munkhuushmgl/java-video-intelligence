@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/googleapis/java-video-intelligence/compare/v1.1.0...v1.1.1) (2020-02-11)
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([4268dd9](https://www.github.com/googleapis/java-video-intelligence/commit/4268dd938859ba847ed8c31548e8869277ef75ea))
+
 ## [1.1.0](https://www.github.com/googleapis/java-video-intelligence/compare/v1.0.0...v1.1.0) (2020-02-04)
 
 
